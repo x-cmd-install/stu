@@ -7,7 +7,7 @@ about:
   head: 9c39616
   archived: false
   latestVersion: v0.7.6
-  collectedAt: 2026-09-04T19:17:59Z
+  collectedAt: 2026-09-04T21:17:10Z
 timeline:
   created: 2021-12-30
   lastCommit: 2026-04-30
@@ -83,5 +83,48 @@ total:
   openIssue: 15
   commit: 928
 ---
+path: /home/runner/.x-repo/github.com/lusingander/stu
+collectedAt: 2026-09-04T21:17:11Z
+loc:
+  Rust:
+    code: 11707
+    comments: 135
+    blanks: 1507
+    files: 42
+  Go:
+    code: 687
+    comments: 4
+    blanks: 85
+    files: 3
+  Toml:
+    code: 186
+    comments: 2
+    blanks: 20
+    files: 6
+  Makefile:
+    code: 44
+    comments: 3
+    blanks: 10
+    files: 1
+  Html:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 610
+    blanks: 316
+    files: 21
+  Text:
+    code: 0
+    comments: 58
+    blanks: 3
+    files: 1
+total:
+  code: 12694
+  comments: 821
+  blanks: 1956
+  files: 75
 ---
 
