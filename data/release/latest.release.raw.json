@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9743135,
       "digest": "sha256:ae608bd9cd39779ab722ebc10978ebd4dbc8ad523c8b0f1e175065cd8f7f1084",
-      "download_count": 240,
+      "download_count": 241,
       "created_at": "2026-01-31T00:24:57Z",
       "updated_at": "2026-01-31T00:24:58Z",
       "browser_download_url": "https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-x86_64-unknown-linux-musl.tar.gz"
