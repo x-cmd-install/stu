@@ -1,0 +1,171 @@
+- repo: alpine_3_23
+  subrepo: community
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: newest
+  summary: TUI explorer for S3 compatible object stores
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: stu
+  binname: stu-doc
+  visiblename: stu-doc
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: newest
+  summary: TUI explorer for S3 compatible object stores (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: newest
+  summary: TUI explorer for S3 compatible object stores
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: stu
+  binname: stu-doc
+  visiblename: stu-doc
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: newest
+  summary: TUI explorer for S3 compatible object stores (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: newest
+  summary: TUI explorer for S3 compatible object stores
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: stu
+  binname: stu-doc
+  visiblename: stu-doc
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: newest
+  summary: TUI explorer for S3 compatible object stores (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: aur
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-1
+  status: newest
+  summary: TUI for AWS S3
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: stu-git
+  binname: stu-git
+  visiblename: stu-git
+  version: 2.5.80
+  origversion: 2.5.80-1
+  status: rolling
+  summary: A build automation tool with support for parametrized rules and dynamic dependencies
+  maintainers:
+    - hheinz@aur
+  licenses:
+    - GPL3
+- repo: homebrew
+  srcname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: null
+  status: newest
+  summary: TUI explorer application for Amazon S3 (AWS S3)
+- repo: homebrew
+  srcname: stu
+  visiblename: stu
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI explorer application for Amazon S3 (AWS S3)
+- repo: nix_stable_24_11
+  srcname: stu
+  visiblename: stu
+  version: 0.6.4
+  origversion: null
+  status: outdated
+  summary: Terminal file explorer for S3 buckets
+  maintainers:
+    - andreas+nixpkgs@zweili.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: stu
+  visiblename: stu
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Terminal file explorer for S3 buckets
+  maintainers:
+    - andreas+nixpkgs@zweili.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: stu
+  visiblename: stu
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: Terminal file explorer for S3 buckets
+  maintainers:
+    - andreas+nixpkgs@zweili.ch
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: null
+  status: newest
+  summary: Terminal file explorer for S3 buckets
+  maintainers:
+    - andreas+nixpkgs@zweili.ch
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: null
+  status: newest
+  summary: Terminal file explorer for S3 buckets
+  maintainers:
+    - andreas+nixpkgs@zweili.ch
+  licenses:
+    - MIT
