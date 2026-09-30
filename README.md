@@ -38,7 +38,7 @@ Total: **12,634** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 913 · **Forks**: 32 · **Open issues**: 57 · **Contributors**: 9
+- **Stars**: 914 · **Forks**: 33 · **Open issues**: 57 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **12,634** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 0 | 2 | 0 | 1 | 2 | 11 |
-| 360d | 2025-10-04 | 2 | 9 | 0 | 8 | 7 | 72 |
-| last720d | 2024-10-09 | 10 | 33 | 0 | 21 | 13 | 386 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 0 | 2 | 0 | 1 | 2 | 11 |
+| 360d | 2025-10-05 | 2 | 9 | 0 | 8 | 7 | 72 |
+| last720d | 2024-10-10 | 10 | 33 | 0 | 21 | 13 | 386 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for stu lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:56:38Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:03:07Z._
