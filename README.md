@@ -48,12 +48,12 @@ Total: **12,634** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 0 | 2 | 0 | 1 | 2 | 11 |
-| 360d | 2025-10-13 | 2 | 9 | 0 | 8 | 7 | 72 |
-| last720d | 2024-10-18 | 10 | 32 | 0 | 21 | 13 | 383 |
+| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-12 | 0 | 2 | 0 | 1 | 2 | 11 |
+| 360d | 2025-10-14 | 2 | 9 | 0 | 8 | 7 | 72 |
+| last720d | 2024-10-19 | 10 | 31 | 0 | 21 | 13 | 377 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for stu lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:17:26Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:19:13Z._
