@@ -1,15 +1,15 @@
 - repo: aur
-  srcname: stu-git
-  binname: stu-git
-  visiblename: stu-git
-  version: 2.5.80
-  origversion: 2.5.80-1
-  status: rolling
-  summary: A build automation tool with support for parametrized rules and dynamic dependencies
+  srcname: stu-bin
+  binname: stu-bin
+  visiblename: stu-bin
+  version: 0.7.6
+  origversion: 0.7.6-1
+  status: newest
+  summary: TUI explorer application for Amazon S3 (AWS S3)
   maintainers:
-    - hheinz@aur
+    - dominiquini@aur
   licenses:
-    - GPL3
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: stu
@@ -68,7 +68,7 @@
   binname: stu
   visiblename: stu
   version: 0.7.6
-  origversion: 0.7.6-r0
+  origversion: 0.7.6-r1
   status: newest
   summary: TUI explorer for S3 compatible object stores
   maintainers:
@@ -81,7 +81,7 @@
   binname: stu-doc
   visiblename: stu-doc
   version: 0.7.6
-  origversion: 0.7.6-r0
+  origversion: 0.7.6-r1
   status: newest
   summary: TUI explorer for S3 compatible object stores (documentation)
   maintainers:
@@ -101,17 +101,17 @@
   licenses:
     - MIT
 - repo: aur
-  srcname: stu-bin
-  binname: stu-bin
-  visiblename: stu-bin
-  version: 0.7.6
-  origversion: 0.7.6-1
-  status: newest
-  summary: TUI explorer application for Amazon S3 (AWS S3)
+  srcname: stu-git
+  binname: stu-git
+  visiblename: stu-git
+  version: 2.5.80
+  origversion: 2.5.80-1
+  status: rolling
+  summary: A build automation tool with support for parametrized rules and dynamic dependencies
   maintainers:
-    - dominiquini@aur
+    - hheinz@aur
   licenses:
-    - MIT
+    - GPL3
 - repo: freebsd
   srcname: net/stu
   binname: stu
