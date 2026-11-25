@@ -14,11 +14,11 @@ x install stu
 
 ## Code insight
 
-Total: **14,304** lines of code across **55** files in the top 5 languages.
+Total: **14,610** lines of code across **55** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,327 | 151 | 1,665 | 44 |
+| Rust | 13,633 | 154 | 1,697 | 44 |
 | Go | 687 | 4 | 85 | 3 |
 | Toml | 233 | 2 | 21 | 6 |
 | Makefile | 47 | 3 | 10 | 1 |
@@ -32,9 +32,9 @@ Total: **14,304** lines of code across **55** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.6` (2026-01-31)
-- **Last commit**: 2026-11-24
-- **Assets in release**: 7
+- **Latest**: `v0.8.0` (2026-11-25)
+- **Last commit**: 2026-11-25
+- **Assets in release**: 6
 
 ## Popularity
 
@@ -42,40 +42,29 @@ Total: **14,304** lines of code across **55** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 56 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 15 · **Commits**: 1002
+- **Releases**: 29 · **Merged PRs**: 58 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 15 · **Commits**: 1013
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 11 | 0 | 0 | 0 | 63 |
-| last60d | 2026-09-25 | 0 | 11 | 0 | 0 | 0 | 63 |
-| 90d | 2026-08-26 | 0 | 11 | 0 | 0 | 0 | 63 |
-| last180d | 2026-05-28 | 0 | 11 | 0 | 0 | 2 | 63 |
-| 360d | 2025-11-29 | 1 | 19 | 0 | 6 | 6 | 117 |
-| last720d | 2024-12-04 | 9 | 40 | 0 | 19 | 12 | 424 |
+| 30d | 2026-10-26 | 1 | 13 | 0 | 0 | 0 | 72 |
+| last60d | 2026-09-26 | 1 | 13 | 0 | 0 | 0 | 72 |
+| 90d | 2026-08-27 | 1 | 13 | 0 | 0 | 0 | 72 |
+| last180d | 2026-05-29 | 1 | 13 | 0 | 0 | 2 | 72 |
+| 360d | 2025-11-30 | 2 | 21 | 0 | 6 | 6 | 126 |
+| last720d | 2024-12-05 | 10 | 42 | 0 | 19 | 12 | 435 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksum.txt](https://github.com/lusingander/stu/releases/download/v0.7.6/checksum.txt) | 697 B | `other` |
-| [stu-0.7.6-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-aarch64-apple-darwin.tar.gz) | 7.7 MiB | `native/darwin/arm64` |
-| [stu-0.7.6-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-aarch64-unknown-linux-gnu.tar.gz) | 8.7 MiB | `native/linux/arm64/glibc` |
-| [stu-0.7.6-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-aarch64-unknown-linux-musl.tar.gz) | 8.7 MiB | `native/linux/arm64/musl` |
-| [stu-0.7.6-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-x86_64-apple-darwin.tar.gz) | 8.8 MiB | `native/darwin/x64` |
-| [stu-0.7.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-x86_64-unknown-linux-gnu.tar.gz) | 9.2 MiB | `native/linux/x64/glibc` |
-| [stu-0.7.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/stu/releases/download/v0.7.6/stu-0.7.6-x86_64-unknown-linux-musl.tar.gz) | 9.3 MiB | `native/linux/x64/musl` |
-
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/stu). **12** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.7.6` | ✅ latest |
-| Nix unstable | `0.7.6` | ✅ latest |
-| Alpine edge | `0.7.6` | ✅ latest |
+| [stu-0.8.0-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-aarch64-apple-darwin.tar.gz) | 7.0 MiB | `native/darwin/arm64` |
+| [stu-0.8.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-aarch64-unknown-linux-gnu.tar.gz) | 8.1 MiB | `native/linux/arm64/glibc` |
+| [stu-0.8.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-aarch64-unknown-linux-musl.tar.gz) | 8.1 MiB | `native/linux/arm64/musl` |
+| [stu-0.8.0-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/x64` |
+| [stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz) | 8.5 MiB | `native/linux/x64/glibc` |
+| [stu-0.8.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-musl.tar.gz) | 8.6 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -86,4 +75,4 @@ Install metadata for stu lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:18:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:57:32Z._
