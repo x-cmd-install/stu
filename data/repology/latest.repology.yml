@@ -1,103 +1,103 @@
+- repo: alpine_3_23
+  subrepo: community
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: outdated
+  summary: TUI explorer for S3 compatible object stores
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: stu
+  binname: stu-doc
+  visiblename: stu-doc
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: outdated
+  summary: TUI explorer for S3 compatible object stores (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: outdated
+  summary: TUI explorer for S3 compatible object stores
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: stu
+  binname: stu-doc
+  visiblename: stu-doc
+  version: 0.7.6
+  origversion: 0.7.6-r0
+  status: outdated
+  summary: TUI explorer for S3 compatible object stores (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-r1
+  status: outdated
+  summary: TUI explorer for S3 compatible object stores
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: stu
+  binname: stu-doc
+  visiblename: stu-doc
+  version: 0.7.6
+  origversion: 0.7.6-r1
+  status: outdated
+  summary: TUI explorer for S3 compatible object stores (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: aur
+  srcname: stu
+  binname: stu
+  visiblename: stu
+  version: 0.7.6
+  origversion: 0.7.6-1
+  status: outdated
+  summary: TUI for AWS S3
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
 - repo: aur
   srcname: stu-bin
   binname: stu-bin
   visiblename: stu-bin
-  version: 0.7.6
-  origversion: 0.7.6-1
+  version: 0.8.0
+  origversion: 0.8.0-1
   status: newest
   summary: TUI explorer application for Amazon S3 (AWS S3)
   maintainers:
     - dominiquini@aur
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: stu
-  binname: stu
-  visiblename: stu
-  version: 0.7.6
-  origversion: 0.7.6-r0
-  status: newest
-  summary: TUI explorer for S3 compatible object stores
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: stu
-  binname: stu-doc
-  visiblename: stu-doc
-  version: 0.7.6
-  origversion: 0.7.6-r0
-  status: newest
-  summary: TUI explorer for S3 compatible object stores (documentation)
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: stu
-  binname: stu
-  visiblename: stu
-  version: 0.7.6
-  origversion: 0.7.6-r0
-  status: newest
-  summary: TUI explorer for S3 compatible object stores
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: stu
-  binname: stu-doc
-  visiblename: stu-doc
-  version: 0.7.6
-  origversion: 0.7.6-r0
-  status: newest
-  summary: TUI explorer for S3 compatible object stores (documentation)
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: stu
-  binname: stu
-  visiblename: stu
-  version: 0.7.6
-  origversion: 0.7.6-r1
-  status: newest
-  summary: TUI explorer for S3 compatible object stores
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: stu
-  binname: stu-doc
-  visiblename: stu-doc
-  version: 0.7.6
-  origversion: 0.7.6-r1
-  status: newest
-  summary: TUI explorer for S3 compatible object stores (documentation)
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: aur
-  srcname: stu
-  binname: stu
-  visiblename: stu
-  version: 0.7.6
-  origversion: 0.7.6-1
-  status: newest
-  summary: TUI for AWS S3
-  maintainers:
-    - orhun@aur
   licenses:
     - MIT
 - repo: aur
@@ -118,7 +118,7 @@
   visiblename: net/stu
   version: 0.7.6
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI explorer for Amazon S3 and compatible object storage
   maintainers:
     - longros@freebsd.org
@@ -129,7 +129,7 @@
   visiblename: stu
   version: 0.7.6
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI explorer application for Amazon S3 (AWS S3)
 - repo: homebrew
   srcname: stu
@@ -176,7 +176,7 @@
   visiblename: stu
   version: 0.7.6
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal file explorer for S3 buckets
   maintainers:
     - andreas+nixpkgs@zweili.ch
@@ -187,7 +187,7 @@
   visiblename: stu
   version: 0.7.6
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal file explorer for S3 buckets
   maintainers:
     - andreas+nixpkgs@zweili.ch
