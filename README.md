@@ -14,11 +14,11 @@ x install stu
 
 ## Code insight
 
-Total: **14,610** lines of code across **55** files in the top 5 languages.
+Total: **15,052** lines of code across **55** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,633 | 154 | 1,697 | 44 |
+| Rust | 14,075 | 160 | 1,736 | 44 |
 | Go | 687 | 4 | 85 | 3 |
 | Toml | 233 | 2 | 21 | 6 |
 | Makefile | 47 | 3 | 10 | 1 |
@@ -33,7 +33,7 @@ Total: **14,610** lines of code across **55** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2026-11-25)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **14,610** lines of code across **55** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 58 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 15 · **Commits**: 1013
+- **Releases**: 29 · **Merged PRs**: 59 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 15 · **Commits**: 1020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 13 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 1 | 13 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 1 | 13 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 1 | 13 | 0 | 0 | 2 | 0 |
-| 360d | 2025-12-01 | 2 | 21 | 0 | 6 | 6 | 0 |
-| last720d | 2024-12-06 | 10 | 42 | 0 | 19 | 12 | 435 |
+| 30d | 2026-10-28 | 1 | 14 | 0 | 0 | 0 | 78 |
+| last60d | 2026-09-28 | 1 | 14 | 0 | 0 | 0 | 78 |
+| 90d | 2026-08-29 | 1 | 14 | 0 | 0 | 0 | 78 |
+| last180d | 2026-05-31 | 1 | 14 | 0 | 0 | 2 | 78 |
+| 360d | 2025-12-02 | 2 | 22 | 0 | 6 | 6 | 132 |
+| last720d | 2024-12-07 | 10 | 43 | 0 | 19 | 12 | 442 |
 
 ## Release assets
 
@@ -66,16 +66,6 @@ Total: **14,610** lines of code across **55** files in the top 5 languages.
 | [stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz) | 8.5 MiB | `native/linux/x64/glibc` |
 | [stu-0.8.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-musl.tar.gz) | 8.6 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/stu). **1** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.7.6` | ⚠️ outdated |
-| Nix unstable | `0.7.6` | ⚠️ outdated |
-| Alpine edge | `0.7.6` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for stu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `stu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +75,4 @@ Install metadata for stu lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:31Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:06:25Z._

@@ -14,11 +14,11 @@ x install stu
 
 ## 代码洞察
 
-合计: **14,610** 行代码（覆盖前 5 种语言、共 **55** 个文件）。
+合计: **15,052** 行代码（覆盖前 5 种语言、共 **55** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 13,633 | 154 | 1,697 | 44 |
+| Rust | 14,075 | 160 | 1,736 | 44 |
 | Go | 687 | 4 | 85 | 3 |
 | Toml | 233 | 2 | 21 | 6 |
 | Makefile | 47 | 3 | 10 | 1 |
@@ -33,7 +33,7 @@ x install stu
 ## 发布
 
 - **最新版本**: `v0.8.0` (2026-11-25)
-- **最近提交**: 2026-11-25
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install stu
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 58 · **开放 PR**: 0 · **已关闭 issue**: 42 · **开放 issue**: 15 · **提交数**: 1013
+- **发布数**: 29 · **已合并 PR**: 59 · **开放 PR**: 0 · **已关闭 issue**: 42 · **开放 issue**: 15 · **提交数**: 1020
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 13 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 1 | 13 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 1 | 13 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 1 | 13 | 0 | 0 | 2 | 0 |
-| 360d | 2025-12-01 | 2 | 21 | 0 | 6 | 6 | 0 |
-| last720d | 2024-12-06 | 10 | 42 | 0 | 19 | 12 | 435 |
+| 30d | 2026-10-28 | 1 | 14 | 0 | 0 | 0 | 78 |
+| last60d | 2026-09-28 | 1 | 14 | 0 | 0 | 0 | 78 |
+| 90d | 2026-08-29 | 1 | 14 | 0 | 0 | 0 | 78 |
+| last180d | 2026-05-31 | 1 | 14 | 0 | 0 | 2 | 78 |
+| 360d | 2025-12-02 | 2 | 22 | 0 | 6 | 6 | 132 |
+| last720d | 2024-12-07 | 10 | 43 | 0 | 19 | 12 | 442 |
 
 ## Release 资产
 
@@ -66,16 +66,6 @@ x install stu
 | [stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz) | 8.5 MiB | `native/linux/x64/glibc` |
 | [stu-0.8.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-musl.tar.gz) | 8.6 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/stu) 上共有 **17** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.7.6` | ⚠️ outdated |
-| Nix unstable | `0.7.6` | ⚠️ outdated |
-| Alpine edge | `0.7.6` | ⚠️ outdated |
-
 ## 改进这些数据
 
 stu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `stu` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -85,4 +75,4 @@ stu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:36:31Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:06:25Z._
