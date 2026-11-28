@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7341783,
       "digest": "sha256:6d8e43498c6a601ff62b759b0a5ab59ddaa72b67d05aa0f9d3f6a19019db94eb",
-      "download_count": 47,
+      "download_count": 52,
       "created_at": "2026-11-25T06:52:12Z",
       "updated_at": "2026-11-25T06:52:12Z",
       "browser_download_url": "https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8453149,
       "digest": "sha256:7263f87620e7148f2b2b8b4225f2bfcc3bf31268ce6acf30322644968c07eb59",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-25T06:52:12Z",
       "updated_at": "2026-11-25T06:52:12Z",
       "browser_download_url": "https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8493473,
       "digest": "sha256:97c5ab5473c51d5262a2af2a03e49a26ba84426a71497737e8a7cd1412ddc32d",
-      "download_count": 181,
+      "download_count": 236,
       "created_at": "2026-11-25T06:52:12Z",
       "updated_at": "2026-11-25T06:52:12Z",
       "browser_download_url": "https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8906913,
       "digest": "sha256:f8a4459568eb07645b1d85d8e35b10ac9c220f057a5e7c886e465aad5fc75be6",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-11-25T06:52:12Z",
       "updated_at": "2026-11-25T06:52:12Z",
       "browser_download_url": "https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9016223,
       "digest": "sha256:9c549afca78a544602ec0daeed03ca9b80d1c3fc5401dad07ccd6bee938d309a",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-11-25T06:52:12Z",
       "updated_at": "2026-11-25T06:52:12Z",
       "browser_download_url": "https://github.com/lusingander/stu/releases/download/v0.8.0/stu-0.8.0-x86_64-unknown-linux-musl.tar.gz"
